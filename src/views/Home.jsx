@@ -1,115 +1,27 @@
-import React, { useContext, useState } from "react";
-import heroBg from "../assets/webdev.svg";
-import Typewriter from "typewriter-effect";
-import { homeLinks } from "../constants";
-import { ThemeContext } from "../themeProvider";
+import React from "react";
 import { motion } from "framer-motion";
-import classNames from "classnames";
-import cloud from "../assets/cloudBg.png";
-import cloudDark from "../assets/cloudDark.png";
-
-const typewriterOptions = {
-  strings: ["Cloud Engineer","ML-Ops Engineer","Software Developer"],
-  autoStart: true,
-  loop: true,
-  delay: 100,
-  deleteSpeed: 50,
-};
+import cloud from "../assets/home_background.JPG"; // Using only light background
 
 const Home = () => {
-  const { state: { darkMode } } = useContext(ThemeContext);
-  const [showResume, setShowResume] = useState(false);
-
-  const backgroundImage = darkMode ? cloud : cloudDark;
-  const textColor = darkMode ? "text-black" : "text-white";
-  const bgClass = darkMode ? "bg-gray-900" : "bg-gray-100";
-
   return (
     <div
-      style={{ backgroundImage: `url(${backgroundImage})`, backgroundSize: "cover" }}
-      className={bgClass}
+      style={{
+        backgroundImage: `url(${cloud})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+      }}
+      className="bg-gray-100 h-screen w-full flex items-end justify-start px-8 pb-20 md:pb-24"
     >
-      <main
-        className="mx-auto max-w-7xl px-4 sm:px-6 md:mt-0 lg:px-8 flex flex-col md:flex-row items-center justify-center md:justify-between h-screen"
-        id="/"
-      >
-        <div className="sm:text-center lg:text-left">
-          <h1 className={classNames("text-4xl tracking-tight font-extrabold", {
-            "text-gray-900 sm:text-5xl md:text-6xl": !darkMode,
-            "text-white sm:text-5xl md:text-6xl": darkMode,
-          })}>
-            <motion.span className={textColor}>
-              Hi, I am Pravin Raj
-            </motion.span>
-            <span className="block text-blue-500 z-0 lg:inline">
-              <Typewriter options={typewriterOptions} />
-            </span>
-          </h1>
-          <p
-            className={classNames("mt-3 text-base sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0", {
-              "text-black": darkMode,
-              "text-white": !darkMode,
-            })}
-          >
-            I specialize in AI, MLOps, and Cloud, leveraging statistics and probability to extract insights from data ;
-            <br></br>
-          </p>
-          <div className="flex md:justify-start">
-            {homeLinks.map((el, index) => (
-              <a
-                key={index}
-                href={el.link}
-                className="mr-5 cursor-pointer mt-8 hover:scale-125"
-              >
-                <img alt={el.name} src={el.url} />
-              </a>
-            ))}
-          </div>
-          <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
-            <div className="mt-3 sm:mt-0 cursor-pointer w-1/2">
-              <button
-                onClick={() => setShowResume(true)}
-                className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10"
-                style={{ maxWidth: '280px' }} // Adjust minWidth as needed
-              >
-                Resume
-              </button>
-            </div>
-          </div>
-        </div>
-        <motion.img
-          initial="hidden"
-          whileInView="visible"
-          variants={{
-            visible: {
-              y: 0,
-              opacity: 1,
-              transition: { type: "spring" },
-            },
-            hidden: { opacity: 1, y: 80 },
-          }}
-          src={heroBg}
-          alt="Hero background"
-          className="md:w-3/6 hidden sm:block"
-        />
-      </main>
-      {showResume && (
-        <div className="fixed inset-0 bg-gray-900 bg-opacity-75 flex items-center justify-center z-50">
-          <iframe
-            src="https://drive.google.com/file/d/1XA69IGz-v0ROOCJGqddAde4tAik5QLjM/view?usp=drivesdk"
-            width="80%"
-            height="80%"
-            frameBorder="0"
-            title="Resume"
-          ></iframe>
-          <button
-            onClick={() => setShowResume(false)}
-            className="absolute top-4 right-4 text-white bg-red-500 p-2 rounded"
-          >
-            Close
-          </button>
-        </div>
-      )}
+      <div className="w-full md:w-1/2 text-left">
+        <motion.h1
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1 }}
+          className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight"
+        >
+          Elevate your space with our elegant designs for everyday living
+        </motion.h1>
+      </div>
     </div>
   );
 };

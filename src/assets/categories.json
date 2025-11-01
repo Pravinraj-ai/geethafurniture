@@ -1,0 +1,202 @@
+{
+  "categories": [
+    {
+      "id": "Executive-table",
+      "name": "Executive table",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+
+    {
+      "id": "Computer-table",
+      "name": "Computer table",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "3-Seater Sofa",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "L-Shaped Sofa",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Fabric Sofa",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+    {
+      "id": "Conference-table",
+      "name": "Conference table",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "6 Seater Dining Table",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Round Dining Table",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+    {
+      "id": "Work-station",
+      "name": "Work station",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+        {
+      "id": "Home-furnituret",
+      "name": "Home furniture",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+    {
+      "id": "Modular-kitchen-and-interior-work",
+      "name": "Modular kitchen and interior work",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+    {
+      "id": "Wall-panelling",
+      "name": "Wall panelling",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+    {
+      "id": "Home-windows-and-main-doors",
+      "name": "Home windows and main doors",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    },
+    {
+      "id": "Tv-showcase",
+      "name": "Tv showcase",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "Wooden-partition-work",
+      "name": "Wooden partition work",
+      "image": "/product_images/cpp.png",
+      "banner": "/product_images/home_background.JPG",
+      "products": [
+        {
+          "name": "Teak King Size Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Modern Wooden Cot",
+          "image": "/product_images/java.png"
+        },
+        {
+          "name": "Classic Cot",
+          "image": "/product_images/java.png"
+        }
+      ]
+    }
+  ]
+}

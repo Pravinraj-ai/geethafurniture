@@ -3,37 +3,52 @@ import { useState, useEffect } from "react";
 import Contact from "./views/Contact";
 import Navbar from "./components/Navbar";
 import About from "./views/About";
-import Home from './views/Home'
-import Education from "./views/Education";
+import Home from "./views/Home";
+import Categories from "./views/Categories";
+import CategoryPage from "./views/CategoryPage";
 import LoadingScreen from "./components/LoadingScreen";
 import { ThemeProvider } from "./themeProvider";
 
-
 function App() {
-  const [loading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(true);
+  const [selectedCategory, setSelectedCategory] = useState(null);
+
   useEffect(() => {
-    setTimeout(() => setLoading(false), 1000)
-  }, [])
+    const timer = setTimeout(() => setLoading(false), 1000);
+    return () => clearTimeout(timer);
+  }, []);
 
   return (
     <ThemeProvider>
-      <>
-
-        {!loading ? (
-          <div >
-            <Navbar />
-            <Home />
-            <About />
-            <Education />
-            <Contact />
-          </div>
-
-        ) : (
-          <LoadingScreen />
-        )}
-      </>
+      {!loading ? (
+        <div>
+          <Navbar onNavigateToHome={() => setSelectedCategory(null)} />
+          {!selectedCategory ? (
+            <>
+              <div id="home">
+                <Home />
+              </div>
+              <div id="about">
+                <About />
+              </div>
+              <div id="categories">
+                <Categories onSelectCategory={setSelectedCategory} />
+              </div>
+              <div id="contact">
+                <Contact />
+              </div>
+            </>
+          ) : (
+            <CategoryPage
+              categoryId={selectedCategory}
+              onBack={() => setSelectedCategory(null)}
+            />
+          )}
+        </div>
+      ) : (
+        <LoadingScreen />
+      )}
     </ThemeProvider>
-
   );
 }
 
