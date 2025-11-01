@@ -1,31 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/portfolio/static/js/main.11423518.js",
-    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/sql_intermediate.jpg": "/portfolio/static/media/sql_intermediate.e822087edf73f490146a.jpg",
-    "static/media/ibm_html.jpg": "/portfolio/static/media/ibm_html.a895bf0fa65e82dca084.jpg",
-    "static/media/ibm_git.jpg": "/portfolio/static/media/ibm_git.72ab4f011d708860bef4.jpg",
-    "static/media/corizointern.png": "/portfolio/static/media/corizointern.87b697a594e8afed9116.png",
-    "static/media/vivekam_logo.png": "/portfolio/static/media/vivekam_logo.08c472ab0bcff6b0cd3d.png",
-    "static/media/pravin1.jpg": "/portfolio/static/media/pravin1.5b989363805aef64d433.jpg",
-    "static/media/pb.png": "/portfolio/static/media/pb.0c121388ccd3c97d0f28.png",
-    "static/media/pythin.png": "/portfolio/static/media/pythin.02ac61b2831abb1c7c38.png",
-    "static/media/amritalogo.png": "/portfolio/static/media/amritalogo.ec442e4b7016e0560ef9.png",
-    "static/media/webdev.svg": "/portfolio/static/media/webdev.80d48f4797a85962149f7d56a454e535.svg",
-    "static/media/cpp.png": "/portfolio/static/media/cpp.600099592cbbf3741f04.png",
-    "static/media/java.png": "/portfolio/static/media/java.54cccfa078f436856668.png",
-    "static/media/sql.png": "/portfolio/static/media/sql.3141241ee2dfaece6f7c.png",
-    "static/media/cloudBg.png": "/portfolio/static/media/cloudBg.f28b5c6961fd82be839c.png",
-    "static/media/cloudDark.png": "/portfolio/static/media/cloudDark.51edaa54cabe7b964ae9.png",
-    "static/media/aws.png": "/portfolio/static/media/aws.895ac29b2bfda29a9270.png",
-    "index.html": "/portfolio/index.html",
-    "main.e6c13ad2.css.map": "/portfolio/static/css/main.e6c13ad2.css.map",
-    "main.11423518.js.map": "/portfolio/static/js/main.11423518.js.map",
-    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/geethafurniture/static/css/main.e6c13ad2.css",
+    "main.js": "/geethafurniture/static/js/main.89beeaa3.js",
+    "static/js/453.50eb8f5a.chunk.js": "/geethafurniture/static/js/453.50eb8f5a.chunk.js",
+    "static/media/sql_intermediate.jpg": "/geethafurniture/static/media/sql_intermediate.e822087edf73f490146a.jpg",
+    "static/media/ibm_html.jpg": "/geethafurniture/static/media/ibm_html.a895bf0fa65e82dca084.jpg",
+    "static/media/ibm_git.jpg": "/geethafurniture/static/media/ibm_git.72ab4f011d708860bef4.jpg",
+    "static/media/corizointern.png": "/geethafurniture/static/media/corizointern.87b697a594e8afed9116.png",
+    "static/media/home_background.JPG": "/geethafurniture/static/media/home_background.ac2b157c82b039545e14.JPG",
+    "static/media/vivekam_logo.png": "/geethafurniture/static/media/vivekam_logo.08c472ab0bcff6b0cd3d.png",
+    "static/media/pb.png": "/geethafurniture/static/media/pb.0c121388ccd3c97d0f28.png",
+    "static/media/pythin.png": "/geethafurniture/static/media/pythin.02ac61b2831abb1c7c38.png",
+    "static/media/amritalogo.png": "/geethafurniture/static/media/amritalogo.ec442e4b7016e0560ef9.png",
+    "static/media/cpp.png": "/geethafurniture/static/media/cpp.600099592cbbf3741f04.png",
+    "static/media/java.png": "/geethafurniture/static/media/java.54cccfa078f436856668.png",
+    "static/media/sql.png": "/geethafurniture/static/media/sql.3141241ee2dfaece6f7c.png",
+    "static/media/aws.png": "/geethafurniture/static/media/aws.895ac29b2bfda29a9270.png",
+    "index.html": "/geethafurniture/index.html",
+    "main.e6c13ad2.css.map": "/geethafurniture/static/css/main.e6c13ad2.css.map",
+    "main.89beeaa3.js.map": "/geethafurniture/static/js/main.89beeaa3.js.map",
+    "453.50eb8f5a.chunk.js.map": "/geethafurniture/static/js/453.50eb8f5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.11423518.js"
+    "static/js/main.89beeaa3.js"
   ]
 }
