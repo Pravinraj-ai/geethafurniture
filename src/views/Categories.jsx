@@ -13,7 +13,7 @@ const Categories = ({ onSelectCategory }) => {
           <div
             key={cat.id}
             onClick={() => onSelectCategory(cat.id)}
-            className="cursor-pointer w-[45%] sm:w-[45%] md:w-[160px] rounded-lg shadow-lg hover:scale-105 transition-transform bg-white"
+            className="cursor-pointer w-[45%] sm:w-[45%] md:w-[22%] rounded-lg shadow-lg hover:scale-105 transition-transform bg-white"
           >
             {/* Square image container */}
             <div className="w-full aspect-square overflow-hidden rounded-t-lg flex items-center justify-center bg-white">

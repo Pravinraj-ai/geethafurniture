@@ -66,9 +66,9 @@ const CategoryPage = ({ categoryId, onBack }) => {
                                     className="w-full h-full object-contain p-2"
                                 />
                             </div>
-                            <h3 className="font-semibold text-lg text-gray-800 text-center">
+                            {/* <h3 className="font-semibold text-lg text-gray-800 text-center">
                                 {product.name}
-                            </h3>
+                            </h3> */}
                         </div>
                     ))}
                 </div>

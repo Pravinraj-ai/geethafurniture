@@ -1,12 +1,11 @@
 import React from "react";
 import { motion } from "framer-motion";
-import cloud from "../assets/home_background.JPG"; // Using only light background
 
 const Home = () => {
   return (
     <div
       style={{
-        backgroundImage: `url(${cloud})`,
+        backgroundImage: `url(${process.env.PUBLIC_URL}/product_images/home_background.png)`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
