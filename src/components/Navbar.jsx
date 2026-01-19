@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link, scroller } from "react-scroll"; // 👈 import scroller
+import { scroller } from "react-scroll"; // 👈 import scroller
 import { motion, AnimatePresence } from "framer-motion";
 import Hamburger from "hamburger-react";
 
