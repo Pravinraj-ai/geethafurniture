@@ -46,7 +46,7 @@ const Navbar = ({ onNavigateToHome }) => {
               {links.map((el) => (
                 <li
                   key={el.name}
-                  className="cursor-pointer block py-2 px-3 text-black hover:bg-blue-500 hover:text-white rounded-md"
+                  className="cursor-pointer block py-2 px-3 text-black hover:bg-[#8B5A2B] hover:text-white rounded-md"
                   onClick={() => handleLinkClick(el.route)}
                 >
                   {el.name}
@@ -75,7 +75,7 @@ const Navbar = ({ onNavigateToHome }) => {
               {links.map((el) => (
                 <li
                   key={el.name}
-                  className="hover:bg-blue-500 text-black block px-3 py-2 rounded-md text-base font-medium mt-1 hover:text-white"
+                  className="hover:bg-[#8B5A2B] text-black block px-3 py-2 rounded-md text-base font-medium mt-1 hover:text-white"
                   onClick={() => {
                     handleLinkClick(el.route);
                     setToggle(false);

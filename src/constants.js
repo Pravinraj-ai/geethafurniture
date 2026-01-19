@@ -1,4 +1,5 @@
-import insta from './assets/intsa.png'; 
+const insta = process.env.PUBLIC_URL + "/assets/insta.png";
+const whatsapp = process.env.PUBLIC_URL + "/assets/whatsapp.png";
 
 export const techStack = [
   { name: "Python", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
@@ -29,6 +30,7 @@ export const techStack = [
 ];
 
 export const contactLinks = [
-  { name: 'Instagram', url: insta, link: 'https://www.instagram.com/_.pravin.03_/' },  
+  { name: 'Instagram', url: insta, link: 'https://www.instagram.com/geethafurniture6/' },
+  { name: 'Whatsapp', url: whatsapp, link: 'https://wa.me/9080420080' },
 ];
 

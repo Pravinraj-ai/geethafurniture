@@ -41,7 +41,16 @@ function App() {
           ) : (
             <CategoryPage
               categoryId={selectedCategory}
-              onBack={() => setSelectedCategory(null)}
+              onBack={() => {
+                setSelectedCategory(null);
+                setTimeout(() => {
+                  const element = document.getElementById("categories");
+                  if (element) {
+                    const y = element.getBoundingClientRect().top + window.pageYOffset - 25;
+                    window.scrollTo({ top: y, behavior: 'smooth' });
+                  }
+                }, 100);
+              }}
             />
           )}
         </div>

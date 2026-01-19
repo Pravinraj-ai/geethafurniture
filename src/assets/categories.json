@@ -3,348 +3,348 @@
     {
       "id": "Executive-table",
       "name": "Executive table",
-      "image": "/executive_tables/image7.jpg",
-      "banner": "/product_images/home_background.png",
+      "image": "/images/executive_tables/image7.jpg",
+      "banner": "/images/home_background.png",
       "products": [
         {
           "name": "image1",
-          "image": "/executive_tables/image1.jpg"
+          "image": "/images/executive_tables/image1.jpg"
         },
         {
           "name": "image2",
-          "image": "/executive_tables/image2.jpg"
+          "image": "/images/executive_tables/image2.jpg"
         },
         {
           "name": "image3",
-          "image": "/executive_tables/image3.jpg"
+          "image": "/images/executive_tables/image3.jpg"
         },
         {
           "name": "image4",
-          "image": "/executive_tables/image4.jpg"
+          "image": "/images/executive_tables/image4.jpg"
         },
         {
           "name": "image5",
-          "image": "/executive_tables/image5.jpg"
+          "image": "/images/executive_tables/image5.jpg"
         },
         {
           "name": "image6",
-          "image": "/executive_tables/image6.jpg"
+          "image": "/images/executive_tables/image6.jpg"
         },
         {
           "name": "image7",
-          "image": "/executive_tables/image7.jpg"
+          "image": "/images/executive_tables/image7.jpg"
         },
         {
           "name": "image8",
-          "image": "/executive_tables/image8.jpg"
+          "image": "/images/executive_tables/image8.jpg"
         }
       ]
     },
     {
       "id": "Computer-table",
       "name": "Computer table",
-      "image": "/computer_table/main.png",
-      "banner": "/product_images/home_background.png",
+      "image": "/images/computer_table/main.png",
+      "banner": "/images/home_background.png",
       "products": [
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table1.png"
+          "image": "/images/computer_table/table1.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table2.png"
+          "image": "/images/computer_table/table2.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table3.png"
+          "image": "/images/computer_table/table3.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table4.png"
+          "image": "/images/computer_table/table4.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table5.png"
+          "image": "/images/computer_table/table5.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table6.png"
+          "image": "/images/computer_table/table6.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table7.png"
+          "image": "/images/computer_table/table7.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table8.png"
+          "image": "/images/computer_table/table8.png"
         },
         {
           "name": "3-Seater Sofa",
-          "image": "/computer_table/table9.png"
+          "image": "/images/computer_table/table9.png"
         }
       ]
     },
     {
       "id": "Conference-table",
       "name": "Conference table",
-      "image": "/conference_table/image2.png",
-      "banner": "/product_images/home_background.png",
+      "image": "/images/conference_table/image2.png",
+      "banner": "/images/home_background.png",
       "products": [
         {
           "name": "image1",
-          "image": "/conference_table/image1.png"
+          "image": "/images/conference_table/image1.png"
         },
         {
           "name": "image2",
-          "image": "/conference_table/image2.png"
+          "image": "/images/conference_table/image2.png"
         },
         {
           "name": "image3",
-          "image": "/conference_table/image3.png"
+          "image": "/images/conference_table/image3.png"
         },
         {
           "name": "image4",
-          "image": "/conference_table/image4.png"
+          "image": "/images/conference_table/image4.png"
         },
         {
           "name": "image5",
-          "image": "/conference_table/image5.png"
+          "image": "/images/conference_table/image5.png"
         },
         {
           "name": "image6",
-          "image": "/conference_table/image6.png"
+          "image": "/images/conference_table/image6.png"
         },
         {
           "name": "image7",
-          "image": "/conference_table/image7.jpg"
+          "image": "/images/conference_table/image7.jpg"
         },
         {
           "name": "image8",
-          "image": "/conference_table/image8.jpg"
+          "image": "/images/conference_table/image8.jpg"
         }
       ]
     },
     {
       "id": "Home-and-Kitchen-interior",
       "name": "Home and Kitchen Interior",
-      "image": "/home_and_kitchen_interior/main.png",
-      "banner": "/product_images/home_background.png",
+      "image": "/images/home_and_kitchen_interior/main.png",
+      "banner": "/images/home_background.png",
       "products": [
         {
           "name": "image1",
-          "image": "/home_and_kitchen_interior/image1.png"
+          "image": "/images/home_and_kitchen_interior/image1.png"
         },
         {
           "name": "image2",
-          "image": "/home_and_kitchen_interior/image2.png"
+          "image": "/images/home_and_kitchen_interior/image2.png"
         },
         {
           "name": "image3",
-          "image": "/home_and_kitchen_interior/image3.png"
+          "image": "/images/home_and_kitchen_interior/image3.png"
         },
         {
           "name": "image4",
-          "image": "/home_and_kitchen_interior/image4.png"
+          "image": "/images/home_and_kitchen_interior/image4.png"
         },
         {
           "name": "image5",
-          "image": "/home_and_kitchen_interior/image5.png"
+          "image": "/images/home_and_kitchen_interior/image5.png"
         },
         {
           "name": "image6",
-          "image": "/home_and_kitchen_interior/image6.png"
+          "image": "/images/home_and_kitchen_interior/image6.png"
         },
         {
           "name": "image7",
-          "image": "/home_and_kitchen_interior/image7.png"
+          "image": "/images/home_and_kitchen_interior/image7.png"
         },
         {
           "name": "image8",
-          "image": "/home_and_kitchen_interior/image8.jpeg"
+          "image": "/images/home_and_kitchen_interior/image8.jpeg"
         },
         {
           "name": "image9",
-          "image": "/home_and_kitchen_interior/image9.jpeg"
+          "image": "/images/home_and_kitchen_interior/image9.jpeg"
         },
         {
           "name": "image10",
-          "image": "/home_and_kitchen_interior/image10.jpeg"
+          "image": "/images/home_and_kitchen_interior/image10.jpeg"
         },
         {
           "name": "image11",
-          "image": "/home_and_kitchen_interior/image11.jpeg"
+          "image": "/images/home_and_kitchen_interior/image11.jpeg"
         },
         {
           "name": "image12",
-          "image": "/home_and_kitchen_interior/image12.jpeg"
+          "image": "/images/home_and_kitchen_interior/image12.jpeg"
         },
         {
           "name": "image13",
-          "image": "/home_and_kitchen_interior/image13.jpeg"
+          "image": "/images/home_and_kitchen_interior/image13.jpeg"
         },
         {
           "name": "image14",
-          "image": "/home_and_kitchen_interior/image14.jpeg"
+          "image": "/images/home_and_kitchen_interior/image14.jpeg"
         },
         {
           "name": "image15",
-          "image": "/home_and_kitchen_interior/image15.jpeg"
+          "image": "/images/home_and_kitchen_interior/image15.jpeg"
         },
         {
           "name": "image16",
-          "image": "/home_and_kitchen_interior/image16.jpeg"
+          "image": "/images/home_and_kitchen_interior/image16.jpeg"
         }
       ]
     },
     {
       "id": "Reception-Tables",
       "name": "Reception-Tables",
-      "image": "/reception_tables/image8.png",
-      "banner": "/product_images/home_background.png",
+      "image": "/images/reception_tables/image8.png",
+      "banner": "/images/home_background.png",
       "products": [
         {
           "name": "image1",
-          "image": "/reception_tables/image1.jpg"
+          "image": "/images/reception_tables/image1.jpg"
         },
         {
           "name": "image2",
-          "image": "/reception_tables/image2.jpg"
+          "image": "/images/reception_tables/image2.jpg"
         },
         {
           "name": "image3",
-          "image": "/reception_tables/image3.jpg"
+          "image": "/images/reception_tables/image3.jpg"
         },
         {
           "name": "image4",
-          "image": "/reception_tables/image4.jpg"
+          "image": "/images/reception_tables/image4.jpg"
         },
         {
           "name": "image5",
-          "image": "/reception_tables/image5.jpg"
+          "image": "/images/reception_tables/image5.jpg"
         },
         {
           "name": "image6",
-          "image": "/reception_tables/image6.jpg"
+          "image": "/images/reception_tables/image6.jpg"
         },
         {
           "name": "image7",
-          "image": "/reception_tables/image7.png"
+          "image": "/images/reception_tables/image7.png"
         },
         {
           "name": "image8",
-          "image": "/reception_tables/image8.png"
+          "image": "/images/reception_tables/image8.png"
         },
         {
           "name": "image9",
-          "image": "/reception_tables/image9.png"
+          "image": "/images/reception_tables/image9.png"
         },
         {
           "name": "image10",
-          "image": "/reception_tables/image10.png"
+          "image": "/images/reception_tables/image10.png"
         },
         {
           "name": "image11",
-          "image": "/reception_tables/image11.png"
+          "image": "/images/reception_tables/image11.png"
         },
         {
           "name": "image12",
-          "image": "/reception_tables/image12.png"
+          "image": "/images/reception_tables/image12.png"
         },
         {
           "name": "image13",
-          "image": "/reception_tables/image13.png"
+          "image": "/images/reception_tables/image13.png"
         },
         {
           "name": "image14",
-          "image": "/reception_tables/image14.png"
+          "image": "/images/reception_tables/image14.png"
         },
         {
           "name": "image15",
-          "image": "/reception_tables/image15.png"
+          "image": "/images/reception_tables/image15.png"
         },
         {
           "name": "image16",
-          "image": "/reception_tables/image16.png"
+          "image": "/images/reception_tables/image16.png"
         },
         {
           "name": "image17",
-          "image": "/reception_tables/image17.png"
+          "image": "/images/reception_tables/image17.png"
         },
         {
           "name": "image18",
-          "image": "/reception_tables/image18.jpg"
+          "image": "/images/reception_tables/image18.jpg"
         }
       ]
     },
     {
       "id": "TV-Stand",
       "name": "TV Stand",
-      "image": "/tv_stand/image3.jpg",
-      "banner": "/product_images/home_background.png",
+      "image": "/images/tv_stand/image3.jpg",
+      "banner": "/images/home_background.png",
       "products": [
         {
           "name": "image1",
-          "image": "/tv_stand/image1.jpg"
+          "image": "/images/tv_stand/image1.jpg"
         },
         {
           "name": "image2",
-          "image": "/tv_stand/image2.png"
+          "image": "/images/tv_stand/image2.png"
         },
         {
           "name": "image3",
-          "image": "/tv_stand/image3.jpg"
+          "image": "/images/tv_stand/image3.jpg"
         },
         {
           "name": "image4",
-          "image": "/tv_stand/image4.jpeg"
+          "image": "/images/tv_stand/image4.jpeg"
         },
         {
           "name": "image5",
-          "image": "/tv_stand/image5.jpeg"
+          "image": "/images/tv_stand/image5.jpeg"
         },
         {
           "name": "image6",
-          "image": "/tv_stand/image6.jpeg"
+          "image": "/images/tv_stand/image6.jpeg"
         }
       ]
     },
     {
       "id": "Work Station",
       "name": "Work-Station",
-      "image": "/work_station/image6.png",
-      "banner": "/product_images/home_background.png",
+      "image": "/images/work_station/image6.png",
+      "banner": "/images/home_background.png",
       "products": [
         {
           "name": "image1",
-          "image": "/work_station/image1.png"
+          "image": "/images/work_station/image1.png"
         },
         {
           "name": "image2",
-          "image": "/work_station/image2.png"
+          "image": "/images/work_station/image2.png"
         },
         {
           "name": "image3",
-          "image": "/work_station/image3.png"
+          "image": "/images/work_station/image3.png"
         },
         {
           "name": "image4",
-          "image": "/work_station/image4.png"
+          "image": "/images/work_station/image4.png"
         },
         {
           "name": "image5",
-          "image": "/work_station/image5.png"
+          "image": "/images/work_station/image5.png"
         },
         {
           "name": "image6",
-          "image": "/work_station/image6.png"
+          "image": "/images/work_station/image6.png"
         },
         {
           "name": "image7",
-          "image": "/work_station/image7.jpeg"
+          "image": "/images/work_station/image7.jpeg"
         },
         {
           "name": "image8",
-          "image": "/work_station/image8.jpg"
+          "image": "/images/work_station/image8.jpg"
         }
       ]
     }

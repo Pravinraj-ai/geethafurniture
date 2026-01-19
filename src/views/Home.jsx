@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div
       style={{
-        backgroundImage: `url(${process.env.PUBLIC_URL}/product_images/home_background.png)`,
+        backgroundImage: `url(${process.env.PUBLIC_URL}/images/home_background.png)`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
